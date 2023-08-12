@@ -3,4 +3,8 @@ numpy
 seaborn
 matplotlib
 sklearn
--e .
+catboost
+xgboost
+scikit-learn
+
+#-e .
